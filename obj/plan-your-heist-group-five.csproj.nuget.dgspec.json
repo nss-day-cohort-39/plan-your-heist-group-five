@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tdavi\\workspace\\plan-your-heist-group-five\\plan-your-heist-group-five.csproj": {}
+    "/Users/drewharper/workspace/plan-your-heist-group-five/plan-your-heist-group-five.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tdavi\\workspace\\plan-your-heist-group-five\\plan-your-heist-group-five.csproj": {
+    "/Users/drewharper/workspace/plan-your-heist-group-five/plan-your-heist-group-five.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tdavi\\workspace\\plan-your-heist-group-five\\plan-your-heist-group-five.csproj",
+        "projectUniqueName": "/Users/drewharper/workspace/plan-your-heist-group-five/plan-your-heist-group-five.csproj",
         "projectName": "plan-your-heist-group-five",
-        "projectPath": "C:\\Users\\tdavi\\workspace\\plan-your-heist-group-five\\plan-your-heist-group-five.csproj",
-        "packagesPath": "C:\\Users\\tdavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tdavi\\workspace\\plan-your-heist-group-five\\obj\\",
+        "projectPath": "/Users/drewharper/workspace/plan-your-heist-group-five/plan-your-heist-group-five.csproj",
+        "packagesPath": "/Users/drewharper/.nuget/packages/",
+        "outputPath": "/Users/drewharper/workspace/plan-your-heist-group-five/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tdavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/drewharper/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
     }

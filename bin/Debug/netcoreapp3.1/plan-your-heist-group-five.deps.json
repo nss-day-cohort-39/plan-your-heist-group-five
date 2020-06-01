@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "plan-your-heist-group-five/1.0.0": {
+        "runtime": {
+          "plan-your-heist-group-five.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "plan-your-heist-group-five/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
