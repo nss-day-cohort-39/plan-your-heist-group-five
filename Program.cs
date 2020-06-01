@@ -43,21 +43,22 @@ namespace plan_your_heist_group_five
                 memberCount++;
 
                 Console.WriteLine("---------------");
-
                 Console.WriteLine($"member total = {memberCount}");
 
-                Console.WriteLine("---------------");
-                Console.WriteLine($"Name: {newMember.Name}");
+                foreach (object myTeam in Team)
+                {
+                    Console.WriteLine("---------------");
+                    Console.WriteLine($"Name: {newMember.Name}");
 
-                Console.WriteLine("---------------");
-                Console.WriteLine($"Skill Level: {newMember.SkillLevel}");
+                    Console.WriteLine("---------------");
+                    Console.WriteLine($"Skill Level: {newMember.SkillLevel}");
 
-                Console.WriteLine("---------------");
-                Console.WriteLine($"Courage: {newMember.CourageFactor}");
+                    Console.WriteLine("---------------");
+                    Console.WriteLine($"Courage: {newMember.CourageFactor}");
+                    Console.WriteLine("---------------");
+                }
 
-                Console.WriteLine("---------------");
-
-                Console.WriteLine(Team);
+                // Console.WriteLine(myTeam);
             }
         }
     }
