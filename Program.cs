@@ -19,8 +19,6 @@ namespace plan_your_heist_group_five
       double TeamMemberCourage = Double.Parse((Console.ReadLine()));
 
       Console.WriteLine($"{TeamMemberName} {TeamMemberSkill} {TeamMemberCourage}");
-
-
     }
   }
 }
